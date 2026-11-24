@@ -34,6 +34,13 @@ GitHub Pages is configured to deploy through the included GitHub Actions workflo
 
 [View the live portfolio](https://michael-coker-dev.github.io/michael-coker-portfolio/)
 
+## Additional practice demos
+
+- [Interface Practice Lab](https://michael-coker-dev.github.io/cobra/) — independent Mixlr-inspired and SQI-inspired page studies.
+- [Marketplace UI Studies](https://michael-coker-dev.github.io/scaling-potato/) — static marketplace information-page recreations.
+
+These are learning exercises, not official brand websites or commissioned projects.
+
 ## Contact
 
 For project enquiries and collaboration, connect through [GitHub](https://github.com/michael-coker-dev).
