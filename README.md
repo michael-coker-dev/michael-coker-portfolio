@@ -23,21 +23,20 @@ This site presents selected interface and web application concepts, services, wo
 
 This is a static site and can be hosted on GitHub Pages, Cloudflare Pages, Netlify, or another static hosting provider.
 
-For GitHub Pages:
-1. Open the repository's **Settings**.
-2. Select **Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select the `main` branch and `/(root)`, then save.
-5. Wait for GitHub Pages to publish the site.
+GitHub Pages is configured to deploy through the included GitHub Actions workflow at `.github/workflows/pages.yml`.
 
 ## Featured work
 
-- [EXNYA — Crypto Exchange UI](https://github.com/hwen-9h/EXNya): a multi-page interface prototype. It is not a live exchange or financial service.
-- [Fund Grow — Banking Interface](https://github.com/hwen-9h/banking): a financial dashboard concept. It is not a real bank or payment platform.
+- [EXNYA — Crypto Exchange UI](https://github.com/michael-coker-dev/EXNya): a multi-page interface prototype. It is not a live exchange or financial service.
+- [Fund Grow — Banking Interface](https://github.com/michael-coker-dev/banking): a financial dashboard concept. It is not a real bank or payment platform.
+
+## Live site
+
+[View the live portfolio](https://michael-coker-dev.github.io/michael-coker-portfolio/)
 
 ## Contact
 
-For project enquiries and collaboration, connect through [GitHub](https://github.com/hwen-9h).
+For project enquiries and collaboration, connect through [GitHub](https://github.com/michael-coker-dev).
 
 ---
 
