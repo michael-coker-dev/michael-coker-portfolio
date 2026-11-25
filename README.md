@@ -27,8 +27,8 @@ GitHub Pages is configured to deploy through the included GitHub Actions workflo
 
 ## Featured work
 
-- [EXNYA — Crypto Exchange UI](https://github.com/michael-coker-dev/EXNya): a multi-page interface prototype. It is not a live exchange or financial service.
-- [Fund Grow — Banking Interface](https://github.com/michael-coker-dev/banking): a financial dashboard concept. It is not a real bank or payment platform.
+- [EXNYA — Crypto Exchange UI case study](https://michael-coker-dev.github.io/michael-coker-portfolio/exnya.html) · [Source repository](https://github.com/michael-coker-dev/EXNya): a multi-page interface prototype. It is not a live exchange or financial service.
+- [Fund Grow — Banking Interface case study](https://michael-coker-dev.github.io/michael-coker-portfolio/fund-grow.html) · [Source repository](https://github.com/michael-coker-dev/banking): a financial dashboard concept. It is not a real bank or payment platform.
 
 ## Live site
 
