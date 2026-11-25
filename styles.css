@@ -158,10 +158,10 @@ a{overflow-wrap:anywhere}
 
 /* Accessible mobile navigation controls */
 .menu-toggle{cursor:pointer;align-items:center;justify-content:center;min-width:42px;min-height:42px}
-.menu-toggle:focus-visible{outline:3px solid #2549c8;outline-offset:3px}
-.menu-toggle span{display:block;width:18px;height:2px;background:#20231f;transition:transform .2s ease,opacity .2s ease}
+.menu-toggle:focus-visible{outline:3px solid #70a7ff;outline-offset:3px}
+.menu-toggle span{display:block;width:18px;height:2px;background:#dbe6f8;transition:transform .2s ease,opacity .2s ease}
 .menu-toggle[aria-expanded="true"] span:first-child{transform:translateY(3.5px) rotate(45deg)}
 .menu-toggle[aria-expanded="true"] span:last-child{transform:translateY(-3.5px) rotate(-45deg)}
 @media(max-width:640px){
-  .nav{z-index:20;box-shadow:0 12px 20px rgba(32,35,31,.08)}
+  .nav{z-index:20;background:#101a2df7;color:#dbe6f8;border-bottom:1px solid var(--line);box-shadow:0 12px 20px rgba(0,0,0,.24)}
 }
