@@ -154,3 +154,14 @@ a{overflow-wrap:anywhere}
  .contact-inner h2{font-size:38px}
  .project-visual{height:195px}
 }
+
+
+/* Accessible mobile navigation controls */
+.menu-toggle{cursor:pointer;align-items:center;justify-content:center;min-width:42px;min-height:42px}
+.menu-toggle:focus-visible{outline:3px solid #2549c8;outline-offset:3px}
+.menu-toggle span{display:block;width:18px;height:2px;background:#20231f;transition:transform .2s ease,opacity .2s ease}
+.menu-toggle[aria-expanded="true"] span:first-child{transform:translateY(3.5px) rotate(45deg)}
+.menu-toggle[aria-expanded="true"] span:last-child{transform:translateY(-3.5px) rotate(-45deg)}
+@media(max-width:640px){
+  .nav{z-index:20;box-shadow:0 12px 20px rgba(32,35,31,.08)}
+}
